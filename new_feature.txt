@@ -5,3 +5,5 @@ update file
 line1
 line2
 line3
+
+update file_2
